@@ -77,7 +77,6 @@ pre {
     padding-top: 15px;
     clear: right;
     font-weight: 300;
-    color: rgb(0, 0, 0);
     word-wrap: break-word;
 }
 
@@ -114,6 +113,8 @@ pre {
     max-width: 100%;
     text-align: right;
     padding-top: 4em;
+    color: rgb(255, 255, 255);
+
 }
 
 .header-article h5 {
@@ -332,13 +333,6 @@ pre {
     .cover-body {
         padding-bottom: 5%;
         padding-top: 0;
-    }
-
-    .header,
-    .header-article {
-        text-align: center;
-        top: auto;
-        position: static;
     }
 
     hr {
