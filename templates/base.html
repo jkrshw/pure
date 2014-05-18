@@ -28,6 +28,7 @@
     {% block head_css %}{% endblock %}
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    {% include 'analytics.html' %}
     {% block head_js %}{% endblock %}
 </head>
 
@@ -86,6 +87,5 @@
             event.preventDefault();
         });
     </script>
-    {% include 'analytics.html' %}
 </body>
 </html>
