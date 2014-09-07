@@ -39,3 +39,4 @@ See it live at [testpy.org](http://testpy.org/)
 ## Aditional features
 * [FitVids](https://github.com/davatron5000/FitVids.js) jQuery plugin for fluid width video embeds.
 * [Math Render Ability](https://github.com/getpelican/pelican-plugins/tree/master/render_math) *render_math* plugin for using MathJax to render both MathML and LaTex.
+* [webassets](https://github.com/getpelican/pelican-plugins/tree/master/assets) cssmin and closure are used to minify theme assets
